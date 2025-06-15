@@ -1,0 +1,5 @@
+{
+  "name": "Global Conflict Situation Monitor",
+  "description": "A web application for monitoring simulated global conflict events, including missile launches, intelligence feeds, and media reports, visualized on a map and through various data panels.",
+  "requestFramePermissions": []
+}
